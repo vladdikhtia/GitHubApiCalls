@@ -11,6 +11,7 @@
 		31F202FF2B9E1AF200F85839 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31F202FE2B9E1AF200F85839 /* ContentView.swift */; };
 		31F203012B9E1AF300F85839 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31F203002B9E1AF300F85839 /* Assets.xcassets */; };
 		31F203042B9E1AF300F85839 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 31F203032B9E1AF300F85839 /* Preview Assets.xcassets */; };
+		31F2030B2B9E1FBE00F85839 /* GitHubUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31F2030A2B9E1FBE00F85839 /* GitHubUser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		31F202FE2B9E1AF200F85839 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		31F203002B9E1AF300F85839 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		31F203032B9E1AF300F85839 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		31F2030A2B9E1FBE00F85839 /* GitHubUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubUser.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				31F202FC2B9E1AF200F85839 /* APICallsApp.swift */,
 				31F202FE2B9E1AF200F85839 /* ContentView.swift */,
+				31F2030A2B9E1FBE00F85839 /* GitHubUser.swift */,
 				31F203002B9E1AF300F85839 /* Assets.xcassets */,
 				31F203022B9E1AF300F85839 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31F2030B2B9E1FBE00F85839 /* GitHubUser.swift in Sources */,
 				31F202FF2B9E1AF200F85839 /* ContentView.swift in Sources */,
 				31F202FD2B9E1AF200F85839 /* APICallsApp.swift in Sources */,
 			);
